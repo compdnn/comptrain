@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
-title: Cyberinfrastructure for In Situ Lossy Compression Optimization
+title: Compression Accelerated DNN Training Framework
 show_downloads: false
-description: The official website of ROCCI cyberinfrastructure project.
+description: The official website of CompTrain project.
 google_analytics: true
