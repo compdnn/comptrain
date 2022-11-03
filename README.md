@@ -1,1 +1,1 @@
-Github repository for NSF CSSI Project "ROCCI: Integrated Cyberinfrastructure for In Situ Lossy Compression Optimization Based on Post Hoc Analysis Requirements"
+Github repository for NSF CRII Project "CRII: OAC: An Efficient Lossy Compression Framework for Reducing Memory Footprint for Extreme-Scale Deep Learning on GPU-Based HPC Systems"
