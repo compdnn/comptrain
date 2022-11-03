@@ -65,6 +65,10 @@ Existing state-of-the-art GPU memory saving methods for training extreme-scale d
 - COMET: A novel memory-efficient deep learning training framework by using error-bounded lossy compression ([https://github.com/jinsian/VLDB22-COMET](https://github.com/jinsian/VLDB22-COMET))
 - ClickTrain: Enabling efficient and accurate end-to-end deep learning training via patter-based pruning ([https://github.com/hipdac-lab/ClickTrain](https://github.com/hipdac-lab/ClickTrain))
 
+## Outreach Activities
+- Invited talk on "Advancing HPC and ML Systems via Efficient Data Management" at University of California, Merced [[Link](https://eecs.ucmerced.edu/seminars)]
+- Invited talk on "Advancing HPC and ML Systems via Efficient Data Management" at University of Rochester [[Link](https://events.rochester.edu/event/advancing_hpc_and_ml_systems_via_efficient_data_management)]
+
 ## Acknowledgement & Disclaimer
 
-This material is based upon work supported by the National Science Foundation under Grants No. 1948447, No. 2034169, and No. 2303820. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the National Science Foundation under Grants No. 1948447, 2034169, 2303820. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
