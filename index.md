@@ -37,6 +37,10 @@ Existing state-of-the-art GPU memory saving methods for training extreme-scale d
 
 **Chengming Zhang (Indiana University)**
 
+<img width="200" alt="chengming-photo" src="https://user-images.githubusercontent.com/5705572/200005413-0e97a400-d95a-4123-a97f-688383a20a4f.png">
+
+**Shuyan (Ben) Liu (Washington State University)**
+
 ### Collaborators
 
 <img width="200" alt="yanzhi-photo" src="https://web.northeastern.edu/yanzhiwang/wp-content/uploads/2019/02/Dr_Yanzhi_Wang_photo-210x300.jpeg">
